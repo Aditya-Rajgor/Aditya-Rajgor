@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Spotify](https://novatorem-three-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31vzs6za6rjjnxnuzb5phnkqeexu?si=8F_5IleNTKiCO32E3oxnTQ)
-
-[<img src="https://novatorem-git-master.aditya-rajgor.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/31vzs6za6rjjnxnuzb5phnkqeexu?si=8F_5IleNTKiCO32E3oxnTQ)
