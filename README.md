@@ -1,7 +1,6 @@
 
 
-- 🔭 I’m currently working as a python developer 
-- 🌱 Freelancer at [fiverr](https://www.fiverr.com/fastasfawk?up_rollout=true)
+- 🔭 I’m currently studying Master of Data Science at Deakin University.
 - Mail me at adityarajgor88@gmail.com
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aditya-rajgor/)
 
