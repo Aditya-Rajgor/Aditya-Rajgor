@@ -6,7 +6,7 @@
 <a href="https://github.com/aditya-rajgor">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-rajgor&hide_rank=true&custom_title=My%20GitHub%20Stats&hide=contribs&show=reviews&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" />
 </a>
-
+<br><br>
 
 <table>
   <tr style="padding: 0px; border-style:hidden;">
