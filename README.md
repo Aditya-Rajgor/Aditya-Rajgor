@@ -1,4 +1,4 @@
-🔭 It's Me, Adi! I’m currently studying Masters of Data Science at Deakin University.
+🔭 It's Me, Adi! Recent graduate of Master of Data Science! I love computer stuff!
 <!-- profile hits -->
 ![Profile-Hits](https://komarev.com/ghpvc/?username=aditya-rajgor&label=Profile-hits&color=blueviolet)
 
