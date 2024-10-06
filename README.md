@@ -1,4 +1,8 @@
-🔭 It's Me, Adi! Recent graduate of Master of Data Science! I love computer stuff!
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Aditya+Rajgor+...;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a>
+</p>
+    
 <!-- profile hits -->
 ![Profile-Hits](https://komarev.com/ghpvc/?username=aditya-rajgor&label=Profile-hits&color=blueviolet)
 
