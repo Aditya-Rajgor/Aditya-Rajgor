@@ -19,9 +19,9 @@
       <p>
       <a href="https://www.linkedin.com/in/aditya-rajgor/" target="_blank"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-1024.png?raw=true">
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="mailto: adityarajgor88@gmail.com" target="_blank"><img height="32" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png?raw=true"></a>
+      <a href="mailto: me@adityarajgor.com" target="_blank"><img height="32" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png?raw=true"></a>
        </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.meetaditya.space" target="_blank"><img height="32" src="https://i.imgur.com/BEs0QbG.png"></a>
+      <a href="https://www.adityarajgor.com/" target="_blank"><img height="32" src="https://i.imgur.com/BEs0QbG.png"></a>
       </p>
     </td>
   </tr>
