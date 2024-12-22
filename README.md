@@ -15,9 +15,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-rajgor&langs_count=4&hide_progress=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=400"></td>
   </tr>
   <tr style="border-style:hidden;">
-    <td style="border-style:hidden;">
-             
-    </td>
   </tr>
 </table>
 
