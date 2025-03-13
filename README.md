@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&pause=1000&color=939393&background=33333300&vCenter=true&width=500&lines=Hello+There!+And+welcome+to+my+GitHub+%F0%9F%92%99;I+love+building+stuff+with+Python+%F0%9F%90%8D;Check+out+my+portfolio+website+linked+below+%F0%9F%98%89)](https://git.io/typing-svg)
-    
 <!-- profile hits -->
 ![Profile-Hits](https://komarev.com/ghpvc/?username=aditya-rajgor&label=Profile-hits&color=blueviolet)
 
